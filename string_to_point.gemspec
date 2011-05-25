@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/string_to_point.rb",
+    "string_to_point.gemspec",
     "test/helper.rb",
     "test/test_string_to_point.rb"
   ]
