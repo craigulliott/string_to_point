@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "string_to_point"
   gem.homepage = "http://github.com/craigulliott/string_to_point"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "very basic geocoding, returns a Point model from a string"
+  gem.description = "very basic geocoding, returns a Point model from a string"
   gem.email = "craigulliott@gmail.com"
   gem.authors = ["Craig Ulliott"]
   # dependencies defined in Gemfile
